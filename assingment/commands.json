@@ -1,0 +1,6 @@
+{
+  "command_name": "BooksFile1",
+  "parameters": { "page" : 5 , "perpage" : 0 , "authorName" : ["Aldous Orson","Harold Jenkins"],"ISBN": "978-0679413353","deletinformation" : "Aldous Orson",
+    "search": ["412",["pagesCount","ghobadi"]],"Address" : ["..\\assingment\\database\\booksnew.csv","..\\assingment\\database\\booksnew1.csv","..\\assingment\\database\\booksnew.json"]
+  }
+}
