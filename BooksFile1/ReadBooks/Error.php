@@ -32,8 +32,6 @@ class Error
             throw new ErrorMessage();
         }elseif ($item-> parameters -> search[1][0] === "ISBN"){
             throw new ErrorIsbn();
-        }elseif ($item -> parameters -> Address !== "array"){
-            throw new ErrorMessage();
         }
     }
 }
